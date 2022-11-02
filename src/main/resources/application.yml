@@ -9,7 +9,7 @@ spring:
     config:
       server:
         native:
-          search-locations: /Users/vadim/Desktop/ms-config-properties/{application}/{profile}
+          search-locations: /Users/vadim/Desktop/ms-config-properties/{application}/{profile}/
 eureka:
   client:
     serviceUrl:
